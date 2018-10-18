@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": "7.*",
+        "google/cloud": "^0.74.0",
+        "google/cloud-bigquery": "^1.4"
+    }
+}
